@@ -23,7 +23,7 @@ github_username:  gregwoodfill
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
