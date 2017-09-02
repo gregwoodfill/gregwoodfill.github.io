@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kotlin-junit-rule"
+title: "JUnit Rules with Kotlin"
 date: "2017-09-02 09:44:47 -0500"
 ---
 While testing a service with WireMock, which uses a JUnit @Rule, we ran into an issue
