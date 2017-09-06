@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: posts
 ---
-I write Kotlin, Groovy, and Java for work and write about them on this blog. For more information about me
+Kotlin, Groovy, and Java developer. Into microservices, agile, and TDD. For more information about me
 and contact info check out the [about page](/about).
-
 # posts
