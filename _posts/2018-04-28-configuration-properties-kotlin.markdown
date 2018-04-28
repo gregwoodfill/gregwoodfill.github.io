@@ -39,3 +39,5 @@ class DemoConfigurationProperties {
 
 In order for Intellij to autocomplete you just need to run gradle to the point of processing resources.
 `./gradlew compileKotlin` does the trick.
+
+Example project here: [kotlin-spring-demo](https://github.com/gregwoodfill/kotlin-spring-demo)
